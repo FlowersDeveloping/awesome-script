@@ -40,3 +40,7 @@ end
 if game.PlaceId == 10118559731 then
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/FlowersDeveloping/awesome-script/main/Nicos%20Nextbots'))()
 end
+-- Build A Boat For Treasure
+if game.PlaceId == 537413528 then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/FlowersDeveloping/awesome-script/main/BABFT'))()	
+end
